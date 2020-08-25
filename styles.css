@@ -1,0 +1,9 @@
+.name{
+background-color:SlateBlue;
+padding-left: 750px;
+}
+
+.border{
+  border: 2px solid black;
+  font-style: italic;
+}
